@@ -1,5 +1,9 @@
+body{
+  text-align: center;
+  background-color: black;
+}
 h1{
-  color:black;
+  color:white;
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
@@ -12,4 +16,7 @@ h1{
 }
 .link{
   color: aquamarine;
+}
+.video{
+  text-align: centre;
 }
